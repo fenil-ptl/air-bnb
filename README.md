@@ -145,3 +145,4 @@ Both frontend and backend are configured with TypeScript path aliases:
 
 Private — All rights reserved.
 "# air-bnb" 
+"# air-bnb" 
